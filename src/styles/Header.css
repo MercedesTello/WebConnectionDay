@@ -1,0 +1,12 @@
+.headerContainer{
+    background-color: beige;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 5vw;
+    height: auto;
+}
